@@ -11,8 +11,9 @@
 ## Tabla de responsabilidades 
 ![image](https://user-images.githubusercontent.com/58191417/156854947-0fb0f335-a1e3-4804-9e06-d3732b5eb6b7.png)
 
-### Video explicativo
-### Video de funcionamiento de la aplicación 
+### [Realización del proyecto (YouTube)](https://youtu.be/kpWgiHAqgZw)
+
+### [Funcionamiento de la aplicación (YouTube)](https://youtu.be/jvkdKjWEtRs) 
 
 ## Código Fuente
 
@@ -27,8 +28,6 @@ Los proyectos creados en Unity se basan en dos principales partes, el código fu
 * Cada pantalla del juego se maneja como una escena, para la selección de niveles se establece una nueva. Aquí es importante establecer un Canvas que reflejará los controles y detalles del jugador.
 
 ![image](https://user-images.githubusercontent.com/58191417/156856210-97327dc7-9980-4ea5-93d6-b2ff60564432.png)
-
-*Como se observa,la cantidad de frutas a recoger es aún mayor y se presentan todos los enemigos existentes en el juego*
 
 * Se maqueta la ventana de acuerdo al resultado esperado con los componentes de la paleta, en este caso se establece una puerta para que el jugador ingrese a cada nivel (4 niveles) y otra para cambiar de skins al personaje.
 
@@ -60,11 +59,22 @@ Los proyectos creados en Unity se basan en dos principales partes, el código fu
 
 ![image](https://user-images.githubusercontent.com/58191417/156860874-3ee202f9-8e5d-4467-99cd-e4f3a42ea4d7.png)
 
+*Como se observa,la cantidad de frutas a recoger es aún mayor y se presentan todos los enemigos existentes en el juego*
+
 ## Aspectos importantes
 
-1. Unity permite crear moldes predefinidos para usar un componente en cualquier escena o pantalla de la aplicación, a estos se los conoce como **prefabs**
-2. El funcionamiento de cada elemento (personaje, enemigo, frutas, etc) se define con un script que tiene código fuente en C#.
-3. 
+1. El diseño de los mapas de juego se lo realiza por medio de un componente **Palette** creado a partir de una serie de imágenes.
+
+![image](https://user-images.githubusercontent.com/58191417/156863383-f745e504-cd48-4c62-b792-9188ed5f4a6f.png)
+
+2. Unity permite crear moldes predefinidos para usar un componente en cualquier escena o pantalla de la aplicación, a estos se los conoce como **prefabs**
+
+![image](https://user-images.githubusercontent.com/58191417/156863325-1f4257a0-55ca-4dc8-a02a-d06db3672234.png)
+
+3. El comportamiento de cada elemento (personaje, enemigo, frutas, etc.) se define con uno o varios scripts que tienen código fuente en C#.
+
+![image](https://user-images.githubusercontent.com/58191417/156863261-2c294934-7eb5-49d2-ab27-4b6aa166cf4f.png)
+
 
 
 
