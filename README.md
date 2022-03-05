@@ -21,7 +21,11 @@ Los proyectos creados en Unity se basan en dos principales partes, el código fu
 
 ### Registro de usuario 
 
+captura de registro
+
 ### Autenticación de usuario (Login)
+
+captura de login
 
 ### Menú principal de juego
 
@@ -75,6 +79,6 @@ Los proyectos creados en Unity se basan en dos principales partes, el código fu
 
 ![image](https://user-images.githubusercontent.com/58191417/156863261-2c294934-7eb5-49d2-ab27-4b6aa166cf4f.png)
 
+## Despliegue a tienda de aplicaciones
 
-
-
+captura de despliegue
