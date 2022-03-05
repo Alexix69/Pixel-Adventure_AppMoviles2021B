@@ -9,6 +9,7 @@
  Juego 2D creado en Unity
 
 ## Tabla de responsabilidades 
+
 ![image](https://user-images.githubusercontent.com/58191417/156854947-0fb0f335-a1e3-4804-9e06-d3732b5eb6b7.png)
 
 ### [Realización del proyecto (YouTube)](https://youtu.be/kpWgiHAqgZw)
@@ -18,14 +19,6 @@
 ## Código Fuente
 
 Los proyectos creados en Unity se basan en dos principales partes, el código fuente y los componentes de la aplicación comúnmente conocidos como Assets.
-
-### Registro de usuario 
-
-captura de registro
-
-### Autenticación de usuario (Login)
-
-captura de login
 
 ### Menú principal de juego
 
@@ -81,4 +74,11 @@ captura de login
 
 ## Despliegue a tienda de aplicaciones
 
-captura de despliegue
+* Esta aplicación se ha desplegado en AppPure, es necesario completar el formulario y las descripciones de la aplicación que se va a subir.
+
+![image](https://user-images.githubusercontent.com/58191417/156865273-69f5a638-2567-4020-9d2c-bc375026e867.png)
+
+* Se observa que una vez completado los pasos, cambia el estado a *publishing* que indica que la aplicación pronto estará en producción.
+
+![image](https://user-images.githubusercontent.com/58191417/156865284-a36a4184-8028-4335-96ea-ebf575e638e0.png)
+
